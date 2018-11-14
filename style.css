@@ -1,0 +1,35 @@
+.body {
+    height: 300px; 
+    width: 100%; 
+}
+.first {
+    background-color: grey;
+
+}
+.second
+{
+    background-image: url("orange/orange.jpg");
+    height: 400px;
+    width: 100%;
+
+
+}
+.third, .fourth
+{
+    position: absolute;
+    left: 0px;
+    top: 600px;
+
+
+}
+.third {
+    background-image: url("orange/apple.jpg");
+    width: 100%;
+    
+    
+}
+.fourth {
+    background-color: red; 
+    opacity: 0.3;
+    width: 100%; 
+}
